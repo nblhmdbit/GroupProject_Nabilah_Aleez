@@ -1,6 +1,8 @@
 # GroupProject_Nabilah_Aleez
 Programming Data Analytics Group Project 
 Project Python (Jupyter Notebook) -IMDB Movie Data Analysis
+NABILAH BINTI AHMAD TAKHIUDDIN - 52224223133
+ALEEZ NAVEEDA BINTI MUHAMMAD AMIN - 52224223325
 
 # Overview
 The goal of this Python project is to gain knowledge about the entertainment industry by examining IMDB movie data. Important details such film names, genres, directors, actors, ratings, income, and more are included in the dataset. This project's main goal is to use Python data analysis tools to find patterns in movie trends, respond to relevant business issues, and assist in decision-making within the film industry.
